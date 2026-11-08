@@ -1,0 +1,6 @@
+{
+  "name": "BaiYuChen Myanmar Video Recap",
+  "description": "Version 0.2 Royal Professional Edition: Natural Myanmar Voice Engine, Photo/Text/Video Recap Studio, Synchronized Subtitles, FFmpeg MP4 Export, and Royal License Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
